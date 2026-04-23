@@ -46,7 +46,7 @@ export default function Navbar() {
   return (
     <nav style={styles.nav}>
       <div style={styles.inner}>
-        <Link to="/" style={styles.logo}>🎓 UniVote</Link>
+        <Link to="/" style={styles.logo}>🎓Your Vote!</Link>
         <div style={styles.links}>
           <Link to="/" style={styles.link(pathname === '/')}>Home</Link>
           <Link to="/results" style={styles.link(pathname === '/results')}>Results</Link>

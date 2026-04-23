@@ -53,7 +53,7 @@ export default function Home() {
       }}>
         <div style={{ maxWidth: 640, margin: '0 auto' }}>
           <div style={{ fontSize: 13, fontWeight: 700, color: '#C9A84C', textTransform: 'uppercase', letterSpacing: '2px', marginBottom: 16 }}>
-            University Awards
+            I-Fatoss Students Vote
           </div>
           <h1 style={{ fontSize: 'clamp(32px, 6vw, 56px)', marginBottom: 16, lineHeight: 1.1 }}>
             Vote for Your<br />
